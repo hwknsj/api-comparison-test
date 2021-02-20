@@ -1,2 +1,3 @@
 # api-comparison-test
-Created with CodeSandbox
+
+Compares results of two API endpoints for specific differences.
